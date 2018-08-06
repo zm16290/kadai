@@ -7,5 +7,5 @@ function ganmen2(){
 }
 
 function No_image(){
-  document.getElementById('kao').innerHTML='<img src="./image/noimage.png" width="200" height="100">'
+  document.getElementById('kao').innerHTML='<img src="./image/no.png" width="210" height="40">'
 }
